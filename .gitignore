@@ -1,0 +1,15 @@
+# environment variables
+.env
+
+# node modules
+node_modules/
+
+#vscode settings
+.vscode/
+
+# production folders
+dist/
+build/
+
+# database
+mongo/
